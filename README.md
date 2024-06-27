@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm manusha ranaweera</h1>
-<h3 align="center">A passionate in coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
