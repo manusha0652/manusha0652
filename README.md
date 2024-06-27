@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
-- 🔭 I’m currently studying in **University of Colombo School of computing**
+- 🔭 I’m currently studying in **University of Colombo School of Computing**
 
-- 🌱 I’m currently learning **mern stack,java,php**
+- 🌱 I’m currently learning **mern stack, java and php**
 
 - 📫 How to reach me **kawshanmanusha7@gmail.com**
 
