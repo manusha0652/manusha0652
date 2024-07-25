@@ -3,17 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
 
-- 🌱 I’m currently learning *Computer Science*
+- 🌱 I’m currently Undergraduate at UCSC
 
-- 👨‍💻 All of my projects are available at *this Accoount*
 
-- 💬 Ask me about *using Facebook or Instagram*
-
-- 📫 How to reach me *..*
-
-- 📄 Know about my experiences [..](..)
-
-- ⚡ Fun fact *..*
 
 ## 💻 Tech Stack
 - Languages
