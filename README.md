@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
 
-- 🌱  Undergraduate student at UCSC
+-   Undergraduate student at UCSC
 
 
 
