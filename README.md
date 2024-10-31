@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
 
-- 🌱 I’m currently Undergraduate at UCSC
+- 🌱  Undergraduate student at UCSC
 
 
 
-## 💻 Tech Stack
+## 💻 Technologies that i am currently studying and utilizing in projects 
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
