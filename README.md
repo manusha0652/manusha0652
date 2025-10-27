@@ -19,7 +19,7 @@
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,javafx,react,nextjs,reactnative,nodejs,express,flutter,dart,laravel,mongodb" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,reactnative,nodejs,express,flutter,dart,laravel,mongodb" />
   </a>
 </p>
 
