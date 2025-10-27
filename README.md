@@ -19,14 +19,14 @@
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,reactnative,nodejs,express,flutter,dart,laravel,mongodb" />
+    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,flutter,dart,laravel,mongodb" />
   </a>
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,figma,linux,wordpress,sanity,powershell,eclipse,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,figma,linux,wordpress,powershell,eclipse,discord" />
   </a>
 </p>
 
