@@ -7,27 +7,29 @@
 
 
 
-## 💻 Technologies that i am currently studying and utilizing in projects 
-- Languages
+## 💻 Technologies I'm Currently Learning and Using
+
+### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,java,mysql,dart,flutter,py,javascript,mongodb,express,php,react,nodejs,scala" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,javascript,typescript,html,css,mysql,scala" />
   </a>
 </p>
 
-- Tools
+### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,vscode,androidstudio,eclipse,postman,docker,discord,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=spring,javafx,react,nextjs,reactnative,nodejs,express,flutter,dart,laravel,mongodb" />
   </a>
 </p>
-<br/>
 
-## 🌐 Social Media
+### 🧰 Tools & Platforms
 <p align="left">
-<a href="[https://www.facebook.com/profile.php?id=100079513034972](https://www.facebook.com/manusha.ranaweera.14?mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100079513034972](https://www.facebook.com/manusha.ranaweera.14?mibextid=ZbWKwL)" height="30" width="40" /></a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,figma,linux,wordpress,sanity,powershell,eclipse,discord" />
+  </a>
 </p>
+
 <br/>
 
 ## Github Activity ✔
