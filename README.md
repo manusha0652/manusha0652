@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha0652&label=Profile%20views&color=0e75b6&style=flat" alt="manusha0652" /> </p>
 
 
--   graduated from  University of  Colombo School of  computing  with  Bsc. in Coputer  Science
+-   graduated from  University of  Colombo School of  computing  with  Bsc in Computer  Science
 
 
 
