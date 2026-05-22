@@ -14,7 +14,7 @@
 - 🌱 Currently building **SkillBridge SL** — a freelance marketplace with React, Spring Boot & escrow bidding
 - ☁️ Experienced with AWS EC2, Docker, Microservices Architecture, and CI/CD pipelines
 - 📍 Based in **Colombo, Sri Lanka**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/manusha-ranaweera) | [Portfolio](https://your-portfolio-url.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/manusha-ranaweera) | [Portfolio]([https://your-portfolio-url.com](https://manusha0652.github.io/portfolio-website/))
 
 ---
 
