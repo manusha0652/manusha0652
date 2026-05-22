@@ -27,6 +27,7 @@
 
 ## 👨‍💻 About Me
 
+```yaml
 name      : Manusha Ranaweera
 role      : Full-Stack Software Engineer
 location  : Colombo, Sri Lanka
@@ -39,6 +40,9 @@ highlights:
   - Delivered full-stack systems across MERN, Spring Boot, Laravel, and .NET ecosystems
 currently : Building SkillBridge SL — a freelance marketplace with escrow-based bidding
 open_to   : Full-time SWE roles | Full-Stack | Backend | AI-integrated systems
+```
+
+---
 
 ## 🚀 Featured Projects
 
