@@ -23,11 +23,12 @@
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **Ferris the Librarian (RAG)** | 100% offline, privacy-first RAG chatbot built to answer Rust queries with strict source citations and anti-hallucination constraints | Python, Streamlit, LangChain, ChromaDB, Ollama | [🔗 Repo](https://github.com/manusha0652/RagPipiline) |
+| **SkillBridge SL** *(in progress)* | Freelance marketplace with escrow-based bidding & milestone payments | React, Spring Boot, MySQL | [🔗 Repo](https://github.com/manusha0652/SkilBridgeLKPlatform) |
 | **Busmate LK** | Final year project — smart public bus transportation system with real-time tracking, booking & microservices architecture | Spring Boot, React Native, Next.js, AWS EC2, Docker | [🔗 Org](https://github.com/Busmate-Lk) |
 | **ServeSmart** | Restaurant POS system with real-time order, table & payment management | MongoDB, Express.js, React, Redux, Node.js | [🔗 Repo](https://github.com/manusha0652/POS-SYSTEM-FRONTEND) |
 | **SoulGift** | Full-stack e-commerce platform with JWT auth, cart management & admin dashboard | Laravel, MySQL, Tailwind CSS, JavaScript | [🔗 Repo](https://github.com/manusha0652/Gift_store) |
 | **E-care** | 2nd year group project — digital health platform for appointment booking & lab reports | PHP, MySQL, JavaScript, MVC | [🔗 Repo](https://github.com/manusha0652/E-care) |
-| **SkillBridge SL** *(in progress)* | Freelance marketplace with escrow-based bidding & milestone payments | React, Spring Boot, MySQL | [🔗 Repo](https://github.com/manusha0652/SkilBridgeLKPlatform) |
+
 
 ---
 
