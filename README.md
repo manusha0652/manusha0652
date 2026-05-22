@@ -20,13 +20,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Busmate LK** | Smart public bus transportation system with real-time tracking, booking & microservices | Spring Boot, React Native, Next.js, AWS EC2, Docker |
-| **ServeSmart** | Restaurant POS system with real-time order, table & payment management | MongoDB, Express.js, React, Redux, Node.js |
-| **SoulGift** | Full-stack e-commerce platform with JWT auth, cart management & admin dashboard | Laravel, MySQL, Tailwind CSS, JavaScript |
-| **E-care** | Digital health platform for appointment booking, health records & lab reports | PHP, MySQL, JavaScript, MVC |
-| **SkillBridge SL** *(in progress)* | Freelance marketplace with escrow-based bidding & milestone payments | React, Spring Boot, MySQL |
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Busmate LK** | Final year project — smart public bus transportation system with real-time tracking, booking & microservices architecture | Spring Boot, React Native, Next.js, AWS EC2, Docker | [🔗 Org](https://github.com/Busmate-Lk) |
+| **ServeSmart** | Restaurant POS system with real-time order, table & payment management | MongoDB, Express.js, React, Redux, Node.js | [🔗 Repo](https://github.com/manusha0652/ServeSmart) |
+| **SoulGift** | Full-stack e-commerce platform with JWT auth, cart management & admin dashboard | Laravel, MySQL, Tailwind CSS, JavaScript | [🔗 Repo](https://github.com/manusha0652/SoulGift) |
+| **E-care** | 2nd year group project — digital health platform for appointment booking & lab reports | PHP, MySQL, JavaScript, MVC | [🔗 Repo](https://github.com/manusha0652/E-care) |
+| **SkillBridge SL** *(in progress)* | Freelance marketplace with escrow-based bidding & milestone payments | React, Spring Boot, MySQL | [🔗 Repo](https://github.com/manusha0652/SkillBridge-SL) |
 
 ---
 
@@ -35,7 +35,7 @@
 ### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,py,php,html,css,mysql,scala,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,html,css,mysql,py" />
   </a>
 </p>
 
