@@ -27,22 +27,41 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name      : Manusha Ranaweera
-role      : Full-Stack Software Engineer
-location  : Colombo, Sri Lanka
-education : BSc Computer Science — University of Colombo School of Computing (UCSC)
-experience: Software Engineering Intern @ Zebra Technologies
-            → React · TypeScript · ASP.NET Core · Gemini LLM API
-highlights:
-  - Built AI-powered internal chat assistant with Gemini LLM API in a live enterprise environment
-  - Contributed to microservices-based transportation platform deployed on AWS EC2
-  - Delivered full-stack systems across MERN, Spring Boot, Laravel, and .NET ecosystems
-currently : Building SkillBridge SL — a freelance marketplace with escrow-based bidding
-open_to   : Full-time SWE roles | Full-Stack | Backend | AI-integrated systems
-```
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
----
+### Hi, I'm Manusha 👋
+
+🎓 &nbsp; BSc Computer Science — **University of Colombo School of Computing**
+🏢 &nbsp; Former Intern · **Zebra Technologies** · React · TypeScript · ASP.NET Core
+🤖 &nbsp; Built a **production AI chat assistant** with the Gemini LLM API at Zebra
+☁️ &nbsp; Hands-on with **AWS EC2 · Docker · Microservices · CI/CD**
+🌱 &nbsp; Building **SkillBridge SL** — freelance marketplace with escrow bidding
+🎯 &nbsp; Seeking full-time **Full-Stack / Backend / AI-integrated** SWE roles
+📍 &nbsp; Based in **Colombo, Sri Lanka**
+
+</td>
+    <td valign="top" width="40%">
+
+**Quick stats**
+
+| | |
+|---|---|
+| 🗓️ Internship | 6 months @ Zebra Technologies |
+| 🚀 Projects shipped | 5+ production systems |
+| 🏗️ Largest project | Busmate LK — 13 repos, microservices |
+| 🤝 Open to | Full-time roles, remote-friendly |
+
+</td>
+  </tr>
+</table>
+
+> 🟢 **Actively seeking full-time Software Engineering roles — Let's connect!**
+> 
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manusha-ranaweera-200b06254/)
+> [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://manusha0652.github.io/portfolio-website/)
+> [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kawshanmanusha7@gmail.com)
 
 ## 🚀 Featured Projects
 
