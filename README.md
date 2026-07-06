@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Manusha+Ranaweera;Full-Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+TypeScript;Building+real+products+%7C+Open+to+opportunities)](https://git.io/typing-svg)
